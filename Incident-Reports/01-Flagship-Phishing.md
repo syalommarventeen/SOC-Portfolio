@@ -198,7 +198,7 @@ The incident highlights how phishing campaigns leverage deceptive domains and pe
 
 ## Alert Overview
 
-*Add investigation screenshot here*
+![Alert Overview](../images/phishing-alert.png)
 
 ## Email Analysis
 

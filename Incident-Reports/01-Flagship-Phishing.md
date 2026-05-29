@@ -209,3 +209,13 @@ The incident highlights how phishing campaigns leverage deceptive domains and pe
 ![Additional Evidence](../images/additional-evidence.png)
 
 ---
+
+# 12. Report Information
+
+| Field              | Details                |
+| ------------------ | ---------------------- |
+| Report Prepared By | Syalom Purnama         |
+| Role               | Aspiring SOC Analyst   |
+| Report Date        | April 18, 2026         |
+
+---

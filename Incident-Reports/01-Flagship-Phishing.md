@@ -202,7 +202,7 @@ The incident highlights how phishing campaigns leverage deceptive domains and pe
 
 ## Email Analysis
 
-*Add phishing email analysis screenshot here*
+![Email Analysis](../images/email-analysis.png)
 
 ## Additional Evidence
 

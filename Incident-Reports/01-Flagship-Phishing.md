@@ -214,7 +214,7 @@ The incident highlights how phishing campaigns leverage deceptive domains and pe
 
 | Field              | Details                |
 | ------------------ | ---------------------- |
-| Report Prepared By | Syalom Purnama         |
+| Report Prepared By | Syalom Marventeen      |
 | Role               | Aspiring SOC Analyst   |
 | Report Date        | April 18, 2026         |
 

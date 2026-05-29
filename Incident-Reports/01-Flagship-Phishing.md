@@ -206,6 +206,6 @@ The incident highlights how phishing campaigns leverage deceptive domains and pe
 
 ## Additional Evidence
 
-*Add additional investigation screenshot here*
+![Additional Evidence](../images/additional-evidence.png)
 
 ---
